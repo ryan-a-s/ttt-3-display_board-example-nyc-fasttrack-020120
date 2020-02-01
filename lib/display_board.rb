@@ -9,7 +9,7 @@ def display_board
   puts "   |   |   \n"
 end
 
-print display_board
+display_board
 
 #  cell = "   "
 #  cell_separate = "|"
