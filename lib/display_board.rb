@@ -5,6 +5,7 @@ def display_board
   cell_separate = "|"
   row = "-----------"
   puts cell + cell_separate + cell + cell_separate + cell
+  puts row
 end
 
 display_board
