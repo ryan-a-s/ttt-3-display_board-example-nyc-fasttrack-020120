@@ -6,6 +6,10 @@ def display_board
   row = "-----------"
   puts cell + cell_separate + cell + cell_separate + cell
   puts row
+  puts cell + cell_separate + cell + cell_separate + cell
+  puts row
+  puts cell + cell_separate + cell + cell_separate + cell
+  puts row
 end
 
 display_board
