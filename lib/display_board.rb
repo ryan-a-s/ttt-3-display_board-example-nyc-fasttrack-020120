@@ -7,6 +7,10 @@ def display_board
   puts "   |   |   "
   puts "-----------"
   puts "   |   |   "
+end
+
+print display_board
+
 #  cell = "   "
 #  cell_separate = "|"
 #  row = "-----------"
@@ -15,6 +19,3 @@ def display_board
 #  puts cell + cell_separate + cell + cell_separate + cell
 #  puts row
 #  puts cell + cell_separate + cell + cell_separate + cell
-end
-
-print display_board
