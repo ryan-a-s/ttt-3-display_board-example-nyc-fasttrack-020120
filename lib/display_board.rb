@@ -17,4 +17,4 @@ def display_board
 #  puts cell + cell_separate + cell + cell_separate + cell
 end
 
-display_board
+print display_board
