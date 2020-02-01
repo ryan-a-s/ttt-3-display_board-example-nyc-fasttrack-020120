@@ -2,14 +2,15 @@
 
 def display_board
   puts "Welcome to Tic Tac Toe"
-  cell = "   "
-  cell_separate = "|"
-  row = "-----------"
-  puts cell + cell_separate + cell + cell_separate + cell
-  puts row
-  puts cell + cell_separate + cell + cell_separate + cell
-  puts row
-  puts cell + cell_separate + cell + cell_separate + cell
+
+#  cell = "   "
+#  cell_separate = "|"
+#  row = "-----------"
+#  puts cell + cell_separate + cell + cell_separate + cell
+#  puts row
+#  puts cell + cell_separate + cell + cell_separate + cell
+#  puts row
+#  puts cell + cell_separate + cell + cell_separate + cell
 end
 
 display_board
